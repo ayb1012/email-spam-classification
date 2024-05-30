@@ -1,4 +1,3 @@
-!pip install sklearn
 import streamlit as st 
 import pickle
 import sklearn
